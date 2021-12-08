@@ -1,2 +1,2 @@
-# DIO-Contruindo-P-g-com_bootstrap
+# DIO-Contruindo-Pag-com_bootstrap
 Utilizando bootstrap para criar páginas.
